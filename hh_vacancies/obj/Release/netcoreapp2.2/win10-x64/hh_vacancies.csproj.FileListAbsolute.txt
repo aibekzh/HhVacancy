@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hh_vacancies.exe
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\Configuration.json
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hh_vacancies.deps.json
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hh_vacancies.runtimeconfig.json
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hh_vacancies.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hh_vacancies.dll
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\bin\Release\netcoreapp2.2\win10-x64\hh_vacancies.pdb
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\obj\Release\netcoreapp2.2\win10-x64\hh_vacancies.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\obj\Release\netcoreapp2.2\win10-x64\hh_vacancies.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\obj\Release\netcoreapp2.2\win10-x64\hh_vacancies.AssemblyInfo.cs
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\obj\Release\netcoreapp2.2\win10-x64\hh_vacancies.dll
+C:\Users\user\RiderProjects\hh_vacancies\hh_vacancies\obj\Release\netcoreapp2.2\win10-x64\hh_vacancies.pdb

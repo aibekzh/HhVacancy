@@ -1,0 +1,6 @@
+﻿{
+  "SourceName": "ThemeYourName",
+  "ConnectionString": "Host=localhost; Username=aibek; Password=aibek007; Database=aibeks_database",
+  "SchemaName": "hh_parsing",
+  "TableName": "hh_resume"
+}

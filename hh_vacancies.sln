@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hh_vacancies", "hh_vacancies\hh_vacancies.csproj", "{185B6B6D-F045-4EC6-AAB3-D65345CB996A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hh_resume", "hh_resume\hh_resume.csproj", "{6391FF16-516A-4C4B-9811-8BE94F5B1903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185B6B6D-F045-4EC6-AAB3-D65345CB996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185B6B6D-F045-4EC6-AAB3-D65345CB996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185B6B6D-F045-4EC6-AAB3-D65345CB996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185B6B6D-F045-4EC6-AAB3-D65345CB996A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6391FF16-516A-4C4B-9811-8BE94F5B1903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6391FF16-516A-4C4B-9811-8BE94F5B1903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6391FF16-516A-4C4B-9811-8BE94F5B1903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6391FF16-516A-4C4B-9811-8BE94F5B1903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

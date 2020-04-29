@@ -1,0 +1,6 @@
+﻿{
+  "SourceName": "ThemeYourName",
+  "ConnectionString": "Host=192.168.1.25; Username=administrator; Password=Z4P6PjEHnJ5nPT; Database=adata",
+  "SchemaName": "avroradata",
+  "TableName": "hh_vacancies"
+}
